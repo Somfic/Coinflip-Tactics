@@ -6,7 +6,7 @@ namespace CoinflipTactics
     {
         static void Main(string[] args)
         {
-            
+            TacticsHolder tactics = new TacticsHolder();
         }
     }
 }
