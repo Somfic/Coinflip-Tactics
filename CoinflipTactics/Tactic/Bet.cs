@@ -1,4 +1,4 @@
-﻿namespace CoinflipTactics.Tactics
+﻿namespace CoinflipTactics.Tactic
 {
     public class Bet
     {
@@ -14,15 +14,13 @@
 
     public class BetResult
     {
-        internal BetResult(bool hadWon, ulong newBalance, Bet bet)
+        internal BetResult(bool hadWon, Bet bet)
         {
             HadWon = hadWon;
-            NewBalance = newBalance;
             Bet = bet;
         }
 
         public bool HadWon { get; }
-        public ulong NewBalance { get; }
         public Bet Bet { get; }
     }
 }
