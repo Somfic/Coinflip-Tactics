@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinflipTactics", "CoinflipTactics\CoinflipTactics.csproj", "{64C4B632-4F3C-40A3-B431-49D5758569BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C4B632-4F3C-40A3-B431-49D5758569BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C4B632-4F3C-40A3-B431-49D5758569BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C4B632-4F3C-40A3-B431-49D5758569BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C4B632-4F3C-40A3-B431-49D5758569BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F68FAF-9DA1-45B6-B9BE-9754D9F1ED5F}
+	EndGlobalSection
+EndGlobal
